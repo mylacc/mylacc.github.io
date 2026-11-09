@@ -1,0 +1,3 @@
+# Claude Code per-user local files (can hold tokens approved with "don't ask again")
+.claude/settings.local.json
+CLAUDE.local.md
